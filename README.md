@@ -1,5 +1,9 @@
 # Telemetry OBD Data To CSV File
 
+## **NOTICE: REPOSITORIES INTEGRATED INTO SINGLE REPOSITORY**
+
+This repository along with other related repositories have been integrated into [**Vehicle Telemetry System**, a system for collecting and processing motor vehicle data using included sensor modules.](https://github.com/thatlarrypearson/vehicle-telemetry-system).
+
 Convert [Telemetry OBD Logger](https://github.com/thatlarrypearson/telemetry-obd) output to CSV format files suitable for importation into Python [Pandas](https://pandas.pydata.org/)  ```dataframe``` using the ```from_csv()``` method.
 
 ## Features
